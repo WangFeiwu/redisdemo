@@ -17,7 +17,7 @@
         <jackson.codehaus.version>1.9.13</jackson.codehaus.version>
         <aspect-version>1.8.0</aspect-version>
 
-        <mysql.connector.java.version>5.1.26</mysql.connector.java.version>
+        <mysql.connector.java.version>8.0.28</mysql.connector.java.version>
         <druid.version>1.0.7</druid.version>
         <sdr.version>2.1.5.RELEASE</sdr.version> <!-- spring data redis -->
         <lettuce.version>5.1.4.RELEASE</lettuce.version> <!-- redis client -->
